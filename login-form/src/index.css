@@ -1,0 +1,32 @@
+*{
+  background-color: purple;
+  color: white;
+}
+input {
+  width: 30%;
+  padding: 15px;
+  margin: 5px 0  22px 34%;
+  display: flex;
+  border: none;
+  background: #f1f1f1;
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+button{
+  padding: 15px;
+  margin: 5px 0  22px 34%;
+  color:white;
+  background-color: green;
+
+}
+
+
